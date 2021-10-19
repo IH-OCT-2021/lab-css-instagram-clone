@@ -1,10 +1,10 @@
-/*
+ /*
 Colors to use:
 dark blue: #06365f
 light blue: #1c5380
 */
 
-body {
+/* body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   display: flex;
@@ -32,4 +32,5 @@ main {
 footer {
   display: flex;
   justify-content: space-around;
-}
+ } 
+*/
